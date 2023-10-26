@@ -1,0 +1,5 @@
+ComputerScience = 18
+Chemistry = 18
+Mathematics = 18
+Physics = 18
+
